@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<banco>
+    <cliente>
+        <nombre>Gerson</nombre>
+        <apellido>Hernandez</apellido>
+        <edad>20</edad>
+        <telefono>30301520</telefono>
+    </cliente>
+
+    <cliente>
+        <nombre>Andrea</nombre>
+        <apellido>Soto</apellido>
+        <edad>40</edad>
+        <telefono>50231234</telefono>
+    </cliente>
+
+    <cliente>
+        <nombre>Jazmin</nombre>
+        <apellido>Ochoa</apellido>
+        <edad>25</edad>
+        <telefono>12340987</telefono>
+    </cliente>
+
+    <cliente>
+        <nombre>Julio</nombre>
+        <apellido>Gomez</apellido>
+        <edad>47</edad>
+        <telefono>59871256</telefono>
+    </cliente>
+</banco>

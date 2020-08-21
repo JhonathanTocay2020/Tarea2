@@ -1,0 +1,28 @@
+{
+  "alumno": [
+    {
+      "nombre": "Jhonathan",
+      "apellido": "Tocay",
+      "edad": 20,
+      "carnet": 201801268
+    },
+    {
+      "nombre": "Juan",
+      "apellido": "Roman",
+      "edad": 19,
+      "carnet": 201807780
+    },
+    {
+      "nombre": "Gerber",
+      "apellido": "Colindres",
+      "edad": 21,
+      "carnet": 201801520
+    },
+    {
+      "nombre": "Leonard",
+      "apellido": "Lopez",
+      "edad": 25,
+      "carnet": 201598901
+    }
+  ]
+}
